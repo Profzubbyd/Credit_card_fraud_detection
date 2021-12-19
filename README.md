@@ -1,2 +1,3 @@
 # Credit_card_fraud_detection
-These are the codes of some credit card fraud detection models.
+Credit card fraud is a huge problem not only for everyone’s personal life also the challenges for financial institution, cyber security, and government. We are interested in this topic because financial institutions and even government pay more attention for fraud activities in these years. More people prefer to use more conveniences payment methods such as credit card, online banking, and mobile payment instead of cash. Along with increasing transaction the chances of fraud are much higher than before. Credit card fraud is the major concern for financial scams. We are trying to investigate the credit card fraud transaction. 
+We would like to use data science knowledge to build the model and detect credit card fraud more easily and efficient. We used different ways to investigate two predictive models and compare which model was the best one.
