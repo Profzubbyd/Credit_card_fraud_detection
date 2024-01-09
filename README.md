@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Credit Card Fraud Detection Using Machine Learning Tools
 
 ## 1. Introduction
 With the rapid development of digitization and information technology, credit cards have become the predominant payment method. However, the surge in online transactions, especially during the Covid-19 pandemic, has led to an increase in credit card fraud. This poses a significant challenge for individuals, financial institutions, cybersecurity, and the government. In this project, we aim to address credit card fraud using data science methodologies to build predictive models for more efficient detection.
